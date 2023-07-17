@@ -9,4 +9,5 @@ Any usage, reproduction, or modification of these logos should be done with prop
 
 ![RSC_OfficialLogo](./Official-logo.png)  
 
-P.S. Thank you (again) Ridwan :) 
+P.S. Thank you (again) Ridwan :)   
+~ Farnaz, July 2023
