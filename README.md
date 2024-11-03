@@ -1,5 +1,6 @@
 # Logo
 RSC logos
+© 2023 RobotStudyCompanion Project. All rights reserved.
 
 The original logo was initially conceptualized and sketched by Farnaz Baksh on April 18th, 2023. 
 Subsequently, it was professionally designed by Ridwan Azeez on April 23rd, 2023.  
