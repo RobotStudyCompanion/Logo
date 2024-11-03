@@ -1,5 +1,4 @@
-# Logo
-RSC logos
+# RSC Logo
 © 2023 RobotStudyCompanion Project. All rights reserved.
 
 The original logo was initially conceptualized and sketched by Farnaz Baksh on April 18th, 2023. 
