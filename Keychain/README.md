@@ -4,7 +4,7 @@ This directory contains keychain design files, promo materials, qr codes and pri
 
 ## Attribution
 - The **original RSC keychain design** was created by **Miriam Calafaʼ**.
-- The **multicoloured 3D-printed variant with QR code** was re-designed by **Matevž Zorec**.
+- The **multicoloured-material 3D-printed variant with QR code** was re-designed by **Matevž Zorec**.
 
 These designs are part of the official visual and physical identity of the Robot Study Companion project.
 
