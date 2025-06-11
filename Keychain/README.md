@@ -15,5 +15,5 @@ All keychain designs in this directory are protected under copyright.
 For inquiries regarding use, licensing, or collaboration, please contact the project team.
 
 ---
-© 2023–2025 RobotStudyCompanion Project. All rights reserved.
+© 2023-2025 RobotStudyCompanion Project. All rights reserved.  
 Last updated: June 2025
